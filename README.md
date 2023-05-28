@@ -7,5 +7,8 @@ composer install
 - php artisan key:generate
 - php artisan migrate
 - php artisan db:seed
+- npm run dev
+
+
 - in DATABASE for ADMIN must be is_admin = 1 
 - default for user is_admin = 0
